@@ -2,7 +2,7 @@
 
  Provides a [docker-mod](https://github.com/linuxserver/docker-mods) to add the [intro-skipper plugin](https://github.com/ConfusedPolarBear/intro-skipper) overlay to the [Linuxserver Jellyfin image](https://hub.docker.com/r/linuxserver/jellyfin).
 
- Currently based on version `10.8.9+e8a79f654e`.
+ Currently based on version [`10.8.10+4d9c94b8f1`](https://github.com/VoidAny/intro-skipper/actions/runs/5873978098).
 
  ## Usage
  1. First build the mod container using `docker build -t davvos11/jellyfin-intro-skipper-mod`
