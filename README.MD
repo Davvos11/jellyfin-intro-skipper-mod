@@ -4,6 +4,8 @@
 
  Currently based on version [`10.8.10+4d9c94b8f1`](https://github.com/VoidAny/intro-skipper/actions/runs/5873978098).
 
+Available on [Docker Hub](https://hub.docker.com/r/davvos11/jellyfin-intro-skipper-mod)
+
  ## Usage
  1. First build the mod container using `docker build -t davvos11/jellyfin-intro-skipper-mod`
  2. Add the mod to your Jellyfin container like so (using docker-compose):
